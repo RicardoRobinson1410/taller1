@@ -14,5 +14,5 @@ int main(){
     printf("\nEl tamaño de memoria almacenado por la variable es %d",tama);
     return 0;
 
-
+aaa
 }
